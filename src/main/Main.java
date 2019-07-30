@@ -1,7 +1,7 @@
 package main;
 
 import static entidades.Mensajes.*;
-import nombres.Persona;
+import entidades.nombres.Persona;
 
 import javax.swing.*;
 

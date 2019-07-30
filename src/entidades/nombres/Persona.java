@@ -1,4 +1,4 @@
-package nombres;
+package entidades.nombres;
 
 public class Persona {
 
